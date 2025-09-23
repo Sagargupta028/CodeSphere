@@ -36,7 +36,7 @@
 ## 🚀 **Installation and Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dibakarghosh03/code-sphere.git
+   git clone https://github.com/Sagargupta028/CodeSphere.git
 
 2. Navigate into the project directory:
    ```bash
@@ -59,10 +59,6 @@
 
 ---   
 
-## 🌐 Live Demo  
-Experience CodeSphere live: [CodeSphere Live](https://codesphere-editor.vercel.app/)
-
----
 
 ## 📝 Usage
 
@@ -87,8 +83,3 @@ Experience CodeSphere live: [CodeSphere Live](https://codesphere-editor.vercel.a
 6. **Save Your Work**:  
    - You can save your code locally to your device for future reference.
 
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to open an issue or submit a pull request.
