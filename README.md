@@ -16,6 +16,18 @@
 
 ---
 
+---
+## 🎬 Demo Video
+
+Watch the application in action:
+
+[![CodeSphere](./assets/code.png)](https://drive.google.com/file/d/1YFLinRHuZhYKxT1roxqG5dULBIevuiMf/view?usp=sharing)
+
+*Click the image above to watch the demo video*
+
+---
+
+
 ## 💻 Tech Stack  
 ### Frontend:  
 - React.js  
